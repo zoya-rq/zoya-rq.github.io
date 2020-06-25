@@ -1,0 +1,18 @@
+body {
+    background-color: rgb(153, 113, 86);
+}
+h1 {
+    color: cornsilk;
+    text-align: center;
+}
+h2 {
+    color: rgb(243, 215, 154);
+}
+h4 {
+    color: rgb(236, 229, 120);
+}
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    color: cornsilk;
+}
